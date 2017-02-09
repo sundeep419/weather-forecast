@@ -59,6 +59,10 @@ $("#current").on("click",function(){
 	});
 	});	
 	});
+	
+
+
+
 		// 		 Highcharts.chart('chart', {
         
 		// 		// included charts from highcharts for graphical representation of weather forecast
